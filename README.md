@@ -38,7 +38,7 @@ torch
 transformers
 
 ```
-Note: You may temporarily need to install transformers from source since MAIRA-2 requires transformers>=4.46.0.dev0. Due to an incompatible commit in transformers main, the current fix is to install a transformers version from or after commit 88d960937c81a32bfb63356a2e8ecf7999619681 but before commit 0f49deacbff3e57cde45222842c0db6375e4fa43.
+Note: You may temporarily need to install transformers from source since MAIRA-2 requires transformers>=4.46.0.dev0. 
 
 ## Set Up Environment:
 Install required dependencies (e.g., Python, PyTorch, Transformers).
